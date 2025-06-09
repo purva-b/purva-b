@@ -1,82 +1,68 @@
-# 👩‍💻 Purva Uday Bansod
+<h1 align="center">Hi 👋, I'm Purva Uday Bansod</h1>
+<h3 align="center">I'm a Software Engineer passionate about full-stack development, cloud platforms, and building AI-powered tools that make a difference.</h3>
 
-🎓 **MS in Computer Software Engineering**  
-📍 San Jose, CA  
-📬 [purva.uday.bansod@gmail.com](mailto:purva.uday.bansod@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/purva-bansod)
+- 🔭 I’m currently pursuing **MS in Computer Software Engineering at San Jose State University**
 
----
+- 💡 I’ve previously worked at **UST**, building scalable internal tools for energy management and analytics
 
-## 🚀 About Me
+- 🧠 I'm passionate about **AI**, **Cloud DevOps**, and building meaningful user experiences
 
-Hi there! I’m **Purva**, a passionate Software Engineer who loves turning complex problems into elegant solutions. With strong foundations in backend engineering and a creative flair for front-end design, I bring full-stack projects to life.
-
-I’m currently pursuing my Master’s at San Jose State University, diving deep into enterprise software, cloud platforms, and mobile development while applying real-world knowledge from my industry experience at UST.
+- 📫 Reach me at **purva.uday.bansod@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/purva-bansod/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purva-bansod" height="30" width="40" />
+  </a>
+</p>
 
-**Languages:**  
-`Python` | `Java` | `C++` | `SQL` | `TypeScript` | `Rust`
-
-**Frontend:**  
-`React.js` | `Material-UI` | `HTML5` | `CSS3` | `Bootstrap`
-
-**Backend & APIs:**  
-`FastAPI` | `Spring Boot` | `Node.js` | `Firebase` | `Postman`
-
-**Testing:**  
-`Pytest` | `Jest` | `JUnit` | `Mockito`
-
-**Cloud & DevOps:**  
-`GCP` | `AWS` | `MongoDB` | `PostgreSQL` | `CircleCI` | `Datadog`
-
----
-
-## 💼 Experience
-
-### 🧠 Software Engineer | UST (2024)
-- Built scalable backend APIs for energy management platforms using FastAPI.
-- Designed responsive React.js interfaces, boosting usability by 23%.
-- Achieved 16% backend performance improvement via CI/CD and monitoring tools.
-
-### ⚙️ Associate Software Engineer | UST (2023)
-- Delivered backend and frontend features in 15+ agile sprints.
-- Spearheaded onboarding for 100+ users and provided cross-functional technical support.
-
-### 💡 Trainee Engineer | UST (2022)
-- Created REST APIs and dynamic UI components for internal platforms.
-- Refactored legacy code into layered, scalable services.
-
----
-
-## 📂 Projects
-
-### 🗂️ Virtual File System
-> **Tech:** Python, Data Structures  
-> Simulated 20+ Linux shell commands, integrated core file system data structures, and visualized OS-level file handling.
-
-### 🧬 Alzheimer’s Disease Detection
-> **Tech:** Python, CNN  
-> Trained on 1000+ MRI scans & cognitive data; improved model accuracy by 58% using advanced deep learning techniques.
-
----
-
-## 🌱 What I’m Learning Now
-
-- Distributed systems & microservices
-- Rust for systems-level programming
-- UI/UX design best practices
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Let’s Connect!
-
-I'm always open to exciting opportunities in full-stack development, ML projects, or anything that blends creativity with code.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/purva-bansod)  
-📧 [purva.uday.bansod@gmail.com](mailto:purva.uday.bansod@gmail.com)
-
----
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purva-uday&show_icons=true&locale=en&layout=compact" alt="purva-uday" />
+</p>
